@@ -23,7 +23,7 @@ Implemented sentiment analysis one-commerce customer reviews from Blinkit , Zept
 Designed and executed a pipeline including data preprocessing, tokenization, word embeddings and data visualization to validate the effectiveness of deep learning in NLP tasks.
 
 
-![project1](/assets/img/project1.jpeg)
+![project1](/assets/img/project1.png)
 
 
 ### Parkinson’s Disease detection using SVM Classifier
@@ -32,5 +32,5 @@ Built a SVM classifier model to detect the Parkinson’s disease. UCI Parkinson�
 records from 31 people, 23 of which have Parkinson’s disease was used. Utilized libraries such as scikitlearn,
 numpy, pandas, and xgboost and achieved an accuracy of 94.87%.
 
-![project2](/assets/img/project2.jpeg)
+![project2](/assets/img/project2.png)
 
