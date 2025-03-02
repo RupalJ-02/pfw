@@ -13,13 +13,14 @@ Human Pose Estimation using Deep Learning AI models
 Real-time Pothole Detection using Artificial Intelligence
 - Built a Convolutional Neural Network (CNN) to detect potholes.
 - Explored and surveyed state-of-the-art detection methods including image segmentation based methods and graph neural network.
-- 
+
+  
 ## Projects
 
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### LSTM Sentiment Analysis on Blinkit, Zepto, and Jiomart Reviews
+Implemented sentiment analysis one-commerce customer reviews from Blinkit , Zepto and Jiomart using an LSTM-based neural network, achieving 0.9 F1-score and accuracy of 89%.
+Designed and executed a pipeline including data preprocessing, tokenization, word embeddings and data visualization to validate the effectiveness of deep learning in NLP tasks.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
