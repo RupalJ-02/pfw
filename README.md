@@ -3,16 +3,19 @@
 
 ## Work Experience
 **Data Science Research Intern @IIIT-Naya Raipur (May 2023 - Aug 2023)**
+
 Human Pose Estimation using Deep Learning AI models
 - created deep learning models of Long Short-Term Memory (LSTM) and Graph Convolutional Networks (GCN) for human pose estimation .
 - worked on the implementatation of the abovesaid data analysis models in the domain of Sports Analysis and Augmented Reality.
 
 **Data Science Research Intern @IIIT-Allahabad (May 2022 - Jun 2022)**
+
 Real-time Pothole Detection using Artificial Intelligence
 - Built a Convolutional Neural Network (CNN) to detect potholes.
 - Explored and surveyed state-of-the-art detection methods including image segmentation based methods and graph neural network.
 - 
 ## Projects
+
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
