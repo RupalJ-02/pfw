@@ -32,5 +32,5 @@ Built a SVM classifier model to detect the Parkinson’s disease. UCI Parkinson�
 records from 31 people, 23 of which have Parkinson’s disease was used. Utilized libraries such as scikitlearn,
 numpy, pandas, and xgboost and achieved an accuracy of 94.87%.
 
-![project2](/assets/img/project2.png)
+![project2](/assets/img/project2.jpg)
 
