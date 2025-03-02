@@ -23,7 +23,7 @@ Implemented sentiment analysis one-commerce customer reviews from Blinkit , Zept
 Designed and executed a pipeline including data preprocessing, tokenization, word embeddings and data visualization to validate the effectiveness of deep learning in NLP tasks.
 
 
-![project1](/assets/img/project1.png)
+
 
 
 ### Parkinson’s Disease detection using SVM Classifier
