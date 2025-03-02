@@ -18,21 +18,19 @@ Real-time Pothole Detection using Artificial Intelligence
 ## Projects
 
 ### LSTM Sentiment Analysis on Blinkit, Zepto, and Jiomart Reviews
+
 Implemented sentiment analysis one-commerce customer reviews from Blinkit , Zepto and Jiomart using an LSTM-based neural network, achieving 0.9 F1-score and accuracy of 89%.
 Designed and executed a pipeline including data preprocessing, tokenization, word embeddings and data visualization to validate the effectiveness of deep learning in NLP tasks.
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+![](/assets/img/project1.jpeg)
 
 
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### Parkinson’s Disease detection using SVM Classifier
 
-- [Data Science Blog](https://medium.com/@shawhin)
+Built a SVM classifier model to detect the Parkinson’s disease. UCI Parkinson’s dataset containing 195
+records from 31 people, 23 of which have Parkinson’s disease was used. Utilized libraries such as scikitlearn,
+numpy, pandas, and xgboost and achieved an accuracy of 94.87%.
+
+![](/assets/img/project2.jpeg)
+
